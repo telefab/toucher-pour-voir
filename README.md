@@ -1,4 +1,4 @@
 toucher-pour-voir
 =================
 
-Toucher pour voire
+Toucher pour voir
